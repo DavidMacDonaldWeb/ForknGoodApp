@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:viewmodel="clr-namespace:ForknGoodApp.ViewModel"
+             x:Class="ForknGoodApp.Views.RecipesPage"
+             Title="Fork N Good">
+    <!--Recipe page design -->
+    
+        <ContentPage.BindingContext>
+            <viewmodel:RecipeViewModel/>
+        </ContentPage.BindingContext>
+    <Grid Padding="10" RowSpacing="10" ColumnSpacing="10" BackgroundColor="IndianRed">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <CollectionView x:Name="recipeList" Margin="1,40,-10,10" Grid.Row="1" ItemsSource="{Binding Recipes}" SelectionMode="Single"
+                        SelectedItem="{Binding SelectedRecipe}" VerticalScrollBarVisibility="Never"
+                        SelectionChangedCommand="{Binding SelectionCommand}"> <!-- Selection changed command used to create the details view-->
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical" VerticalItemSpacing="20" HorizontalItemSpacing="10" Span="1"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10" BackgroundColor="BlanchedAlmond" RowSpacing="10" ColumnSpacing="10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Image Aspect="AspectFill" Source="{Binding Image}" Margin="5" WidthRequest="75" HeightRequest="70" Grid.RowSpan="2"
+                               HorizontalOptions="Start" VerticalOptions="Start"/>
+                        <Label Grid.Row="1" Text="{Binding Name}" TextColor="black" FontSize="Medium" FontAttributes="Bold" VerticalOptions="Fill" HorizontalOptions="Center" Padding="10,10,0,20" Margin="40,-10,0,10"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+            <CollectionView.Footer>
+                <Grid HeightRequest="0"/>
+            </CollectionView.Footer>
+        </CollectionView>
+    </Grid>
+</ContentPage>
+    <!--David MacDonald -->

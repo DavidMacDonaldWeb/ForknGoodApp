@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ForknGoodApp.Views.HomePage">
+
+    <Grid BackgroundColor="IndianRed" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <StackLayout Margin="0,0,0,0" HorizontalOptions="Center" VerticalOptions="Center">
+            <Label TextColor="LightYellow" FontSize="40" HorizontalTextAlignment="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text=" Fork " FontAttributes="Bold" FontSize="45"/>           <!--Home page display with button to display recipes-->
+                            <Span Text=" 'N' " FontAttributes="Italic" FontSize="30"/>
+                            <Span Text=" Good " FontAttributes="Bold" FontSize="45"/>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Label Text="'Recipe sharing App'" TextColor="LightYellow" FontSize="17" FontAttributes="Italic" HorizontalTextAlignment="Center" Margin="0,10,0,10"/>
+            <Button x:Name="viewButton"
+                        Text="View Recipes"
+                        BackgroundColor="BlanchedAlmond"
+                        BorderColor="Black"
+                        BorderWidth="2"
+                        TextColor="Black"
+                        Clicked="View_Clicked"/>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>
+    
+    <!--David MacDonald-->

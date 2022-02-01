@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:viewmodel="clr-namespace:ForknGoodApp.ViewModel"
+             x:DataType="viewmodel:DetailsViewModel"
+             x:Class="ForknGoodApp.Views.DetailsPage"
+             Title="Fork N Good">
+
+    <Grid Padding="30" BackgroundColor="IndianRed" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        
+        <ScrollView HorizontalOptions="FillAndExpand" VerticalScrollBarVisibility="Never">
+            <Grid RowSpacing="50" HorizontalOptions="FillAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <StackLayout Grid.Row="1" Spacing="20" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" BackgroundColor="BlanchedAlmond" >
+                    <Label Text="{Binding SelectedRecipe.Name}" TextColor="Black" Margin="20,50,10,10" FontSize="30" VerticalOptions="Center" HorizontalOptions="Center"/>
+                    <Image Source="{Binding SelectedRecipe.Image}" Aspect="AspectFill" Margin="25,20,26,20" HeightRequest="250" WidthRequest="300"
+                   HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+                    <Label Margin="10,10,0,0" Text="{Binding SelectedRecipe.IName}" HorizontalOptions="Center" TextColor="Black" FontAttributes="Italic,Bold" FontSize="Medium"/>
+                    <Label Margin="11,0,0,10" Text="{Binding SelectedRecipe.Quantity}" HorizontalOptions="Center" TextColor="Black" FontAttributes="Italic" FontSize="Default"/>
+                    <Label Margin="10,0,0,0" Text="{Binding SelectedRecipe.IName2}" HorizontalOptions="Center" TextColor="Black" FontAttributes="Italic,Bold" FontSize="Medium"/>
+                    <Label Margin="11,0,0,10" Text="{Binding SelectedRecipe.Quantity2}" HorizontalOptions="Center" TextColor="Black" FontAttributes="Italic" FontSize="Default"/> <!-- A listview would be better here but the data is not being displayed-->
+                    <Label Margin="10,0,0,0" Text="{Binding SelectedRecipe.IName3}" HorizontalOptions="Center" TextColor="Black" FontAttributes="Italic,Bold" FontSize="Medium"/>
+                    <Label Margin="11,0,0,10" Text="{Binding SelectedRecipe.Quantity3}" HorizontalOptions="Center" TextColor="Black" FontAttributes="Italic" FontSize="Default"/>
+                    <Label Margin="10,0,0,0" Text="{Binding SelectedRecipe.IName4}" HorizontalOptions="Center" TextColor="Black" FontAttributes="Italic,Bold" FontSize="Medium"/>
+                    <Label Margin="11,0,0,50" Text="{Binding SelectedRecipe.Quantity4}" HorizontalOptions="Center" TextColor="Black" FontAttributes="Italic" FontSize="Default"/>
+                </StackLayout>
+            </Grid>
+        </ScrollView>
+    </Grid>
+    
+</ContentPage>
+    
+    <!--David MacDonald-->

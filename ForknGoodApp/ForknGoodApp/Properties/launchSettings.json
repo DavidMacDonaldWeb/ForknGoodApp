@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ForknGoodApp": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
