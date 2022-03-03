@@ -38,7 +38,7 @@
                 </DataTemplate>
             </CollectionView.ItemTemplate>
             <CollectionView.Footer>
-                <Grid HeightRequest="0"/>
+                <Grid HeightRequest="0"/>        
             </CollectionView.Footer>
         </CollectionView>
     </Grid>

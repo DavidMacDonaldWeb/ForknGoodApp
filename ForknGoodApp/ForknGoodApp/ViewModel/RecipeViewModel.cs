@@ -1,13 +1,8 @@
 ﻿using ForknGoodApp.Model;
-using System;
-using System.Collections.Generic;
+using ForknGoodApp.Views;
 using System.Collections.ObjectModel;
-using System.Text;
-using ForknGoodApp.ViewModel;
 using System.Windows.Input;
 using Xamarin.Forms;
-using ForknGoodApp.Views;
-using Xamarin.Forms.Internals;
 
 namespace ForknGoodApp.ViewModel
 {
@@ -15,7 +10,7 @@ namespace ForknGoodApp.ViewModel
     {
         public RecipeViewModel()
         {
-          
+
             recipes = GetRecipes();
         }
         /*ObservableCollection<IngredientModel> ingredients;
@@ -29,7 +24,7 @@ namespace ForknGoodApp.ViewModel
             }
         }*/
         ObservableCollection<RecipeModel> recipes;
-         public ObservableCollection<RecipeModel> Recipes //returns the recipes from the recipe model 
+        public ObservableCollection<RecipeModel> Recipes //returns the recipes from the recipe model 
         {
             get { return recipes; }
             set
@@ -57,7 +52,7 @@ namespace ForknGoodApp.ViewModel
         {
             if (selectedRecipe != null)
             {
-                DetailsViewModel viewModel = new DetailsViewModel { SelectedRecipe = selectedRecipe, Recipes = recipes, Position = recipes.IndexOf(selectedRecipe)};//Tells the details page what to look for
+                DetailsViewModel viewModel = new DetailsViewModel { SelectedRecipe = selectedRecipe, Recipes = recipes, Position = recipes.IndexOf(selectedRecipe) };//Tells the details page what to look for
                 DetailsPage detailsPage = new DetailsPage { BindingContext = viewModel };//Binds the data to be used on the details page
 
                 NavigationPage navigation = Application.Current.MainPage as NavigationPage;
@@ -80,7 +75,7 @@ namespace ForknGoodApp.ViewModel
                     Quantity = "125g",                                    //All <IngredientModel> have been saved for future use. I find using a second model a cleaner way of developemnt 
                     IName2 = "Butter",                                    // but all techniques have failed so far
                     Quantity2 = "125g",
-                    IName3 = "Golden-syrup", 
+                    IName3 = "Golden-syrup",
                     Quantity3 = "2-3 tbsp"
                   },  
                     
@@ -97,11 +92,11 @@ namespace ForknGoodApp.ViewModel
                     RecipeID = "2",
                     Name = "Creamy tomato courgetti",
                     Image = "corgetti.png",
-                    IName = "Parma Ham", 
+                    IName = "Parma Ham",
                     Quantity = "4 slices",
-                    IName2 = "Basil", 
+                    IName2 = "Basil",
                     Quantity2 = "12 leaves",
-                    IName3 = "Tomato and Mascapone sauce",    
+                    IName3 = "Tomato and Mascapone sauce",
                     Quantity3 = "350g",
                     IName4 = "Courgetti",
                     Quantity4 = "250g",
@@ -171,5 +166,5 @@ namespace ForknGoodApp.ViewModel
         /*David MacDonald*/
 
     }
-    
+
 }
