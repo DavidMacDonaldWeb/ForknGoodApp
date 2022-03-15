@@ -15,7 +15,7 @@ namespace ForknGoodApp.Droid
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            AppCenter.Start("{android={128e59c2-2e99-4f09-bff0-419f54498280};" +
+            AppCenter.Start("{android={App Secret code};" +
             typeof(Analytics), typeof(Crashes));
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
