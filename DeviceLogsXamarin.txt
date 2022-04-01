@@ -1,0 +1,303 @@
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.3083] ##########################################
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.3093] # Xamarin Profiler version -  1.7.0.0
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.3103] #  * Arch x86_64
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.3103] ##########################################
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6052] initializing android platform
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6052] initializing ios platform
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6052] initializing mlpd platform
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6700] processing command line = --options=gc:sgen,maxframes:32 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\100RecipesEmulator.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=real --sample-cycle-freq=10
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6820] processing command line = --options=name:Samsung GT-I9505,gc:sgen,maxframes:32 --type=android --device=f016ba14 --target=com.companyname.forkngoodapp|crc642df12b4d877b6137.MainActivity --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=real --sample-cycle-freq=10
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6830] processing command line = --options=gc:sgen,maxframes:32 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\Emulator added recipes.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=real --sample-cycle-freq=10
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6840] processing command line = --options=gc:sgen,maxframes:32 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\samsung-profiler.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=real --sample-cycle-freq=10
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6840] processing command line = --options=gc:sgen,maxframes:8 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\ForkNGood.ProfilerSnapshots.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=cpu --sample-cycle-freq=1000
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6840] processing command line = --options=gc:sgen,maxframes:8 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\ForkNGood.Profiler.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=cpu --sample-cycle-freq=1000
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:08.6840] processing command line = C:\Program Files\Xamarin\Profiler\XamarinProfiler.exe --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\100RecipesDevice.mlpd
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:11.1192] processing command line = --options=gc:sgen,maxframes:32 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\100RecipesEmulator.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=real --sample-cycle-freq=10
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:11.1202] processing command line = --options=name:Samsung GT-I9505,gc:sgen,maxframes:32 --type=android --device=f016ba14 --target=com.companyname.forkngoodapp|crc642df12b4d877b6137.MainActivity --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=real --sample-cycle-freq=10
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:11.1202] processing command line = --options=gc:sgen,maxframes:32 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\Emulator added recipes.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=real --sample-cycle-freq=10
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:11.1202] processing command line = --options=gc:sgen,maxframes:32 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\samsung-profiler.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=real --sample-cycle-freq=10
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:11.1202] processing command line = --options=gc:sgen,maxframes:8 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\ForkNGood.ProfilerSnapshots.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=cpu --sample-cycle-freq=1000
+XamarinProfiler.Core.ProfilerService Information: 0 : [2022-04-01 16:37:11.1212] processing command line = --options=gc:sgen,maxframes:8 --type=mlpd --target=C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\ForkNGood.Profiler.mlpd --heapshot-mode=ondemand --heapshot-frequency=1000 --sampling-mode=cpu --sample-cycle-freq=1000
+XamarinProfiler.Windows.Core.WindowsRunFactory Information: 0 : [2022-04-01 16:37:11.1986] Creating mlpd run for C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\100RecipesDevice.mlpd target on device 
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:11.2145] Initializing profiling...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:11.2455] Opening C:\Users\david\honoursFiles\Xamarin\XamarinProfiler\100RecipesDevice.mlpd
+XamarinProfiler.Windows.MainWindow Information: 0 : [2022-04-01 16:37:11.2515] StartRecording for 100RecipesDevice.mlpd
+XamarinProfiler.Core.Platforms.Mono.ImmediateMetadataLogEventVisitor Information: 0 : [2022-04-01 16:37:11.2664] reading MLPD with version 17
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:11.2674] Reading data...
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4687] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4687] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4687] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4687] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4687] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4687] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4687] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4687] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4697] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Error: 0 : [2022-04-01 16:37:11.4697] got allocation for unknown VTablePointer 2935346320
+XamarinProfiler.Core.Metadata.ProfileMetadata Information: 0 : [2022-04-01 16:37:11.5036] Exception thrown for Microsoft.AppCenter.AppCenterException at Microsoft.AppCenter.AppCenter:GetSecretAndTargetForPlatform (string,string)
+XamarinProfiler.Core.Metadata.ProfileMetadata Information: 0 : [2022-04-01 16:37:11.5576] Exception thrown for Microsoft.AppCenter.AppCenterException at Microsoft.AppCenter.AppCenter:GetSecretAndTargetForPlatform (string,string)
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.0974] Processing data...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.0974] Processing data - 86%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.0984] Processing data - 87%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1004] Processing data - 88%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1024] Processing data - 89%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1064] Processing data - 90%...
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Warning: 0 : [2022-04-01 16:37:12.1134] Unmanaged method 3069358328 not found
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Warning: 0 : [2022-04-01 16:37:12.1134] Unmanaged method 3069358328 not found
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Warning: 0 : [2022-04-01 16:37:12.1134] Unmanaged method 3069372204 not found
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Warning: 0 : [2022-04-01 16:37:12.1134] Unmanaged method 3069372204 not found
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Warning: 0 : [2022-04-01 16:37:12.1234] Unmanaged method 3069516308 not found
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Warning: 0 : [2022-04-01 16:37:12.1234] Unmanaged method 3069516308 not found
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Warning: 0 : [2022-04-01 16:37:12.1243] Unmanaged method 3069517104 not found
+XamarinProfiler.Core.Platforms.Mono.MetadataLogEventVisitor Warning: 0 : [2022-04-01 16:37:12.1243] Unmanaged method 3069517104 not found
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1523] Processing data - 91%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1563] Processing data - 92%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1593] Processing data - 93%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1653] Processing data - 94%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1683] Processing data - 95%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1722] Processing data - 96%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1752] Processing data - 97%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1792] Processing data - 98%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1832] Processing data - 99%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1862] Processing data - 100%...
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.1872] Stopping session. Please wait...
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1892] User Time = 315800000
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1892] System Time = 48000000
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1892] Total Time = 631600000
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1892] Working Set = 127123456
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1892] Private Bytes = 188379136
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1892] Virtual Bytes = 1758924800
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1892] Page File Bytes = 20074496
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Page Faults = 96930
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] CPU Load Average - 1min = 5
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] CPU Load Average - 5min = 4
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] CPU Load Average - 15min = 3
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Inflated signatures size = 83812
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Memberref signature cache size = 30224
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] MonoMethod size = 516408
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] MonoMethodSignature size = 96712
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Discarded method code = 1
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Time spent JITting discarded code = 19532
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Try holes memory size = 7568
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Dynamic code allocs = 94523640250466
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Dynamic code bytes = 22008
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Dynamic code frees = 124554051584
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Unwind info size = 69544
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Calls to trampolines = 16500
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] JIT trampolines = 4356
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Unbox trampolines = 81
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Static rgctx trampolines = 122
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] RGCTX unmanaged lookups = 861
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] RGCTX num lazy fetch trampolines = 43
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Async JIT info size = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Max native code in a domain = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Max code space allocated in a domain = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1902] Total code space allocated = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Max HashTable Chain Length = 185
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Collection max time = 948791
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Minor fragment clear = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Minor pinning = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Minor scan remembered set = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Minor scan major blocks = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Minor scan los = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Minor scan pinned = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Minor scan roots = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Minor fragment creation = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major fragment clear = 305
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major pinning = 10071
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major scan pinned = 305
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major scan roots = 394287
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major scan mod union blocks = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major scan mod union los = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major finish gray stack = 953980
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major free big objects = 305
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major LOS sweep = 305
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major sweep = 72327
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Major fragment creation = 360412
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Number of pinned objects = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] Hazardous pointers = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] World stop = 50660
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1912] World restart = 14343
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] # major blocks allocated = 128
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] # major blocks freed = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] # major blocks lazy swept = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] # major blocks freed ideally = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] # major blocks freed less ideally = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] # major blocks freed individually = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] # major blocks allocated less ideally = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] # workers finished = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] Memgov alloc = 15753572
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] Memgov max alloc = 15762788
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] ImgSet Cache Hit = 558899
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] ImgSet Cache Miss = 54
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] ImgSet Count = 54
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] MonoClassDef count = 2605
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] MonoClassGtd count = 185
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] MonoClassGenericInst count = 3210
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] MonoClassGenericParam count = 203
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] MonoClassArray count = 165
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] MonoClassPointer count = 18
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] Inflated methods size = 338988
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] Inflated classes size = 436560
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] MonoClass size = 489072
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] MonoClass::ref_info_handle count = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] Compiled methods = 4891
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1922] Methods from AOT = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] Methods from AOT+LLVM = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] Methods JITted using mono JIT = 4891
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] Methods JITted using LLVM = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] Methods using the interpreter = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/method_to_ir = 39648080
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/liveness_handle_exception_clauses = 145870
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/handle_out_of_line_bblock = 85740
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/decompose_long_opts = 395518
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/decompose_typechecks = 144645
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/local_cprop = 1160253
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/local_emulate_ops = 120848
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/optimize_branches = 287182
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/handle_global_vregs = 627148
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/local_deadce = 916459
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/local_alias_analysis = 546281
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/if_conversion = 61334
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/bb_ordering = 153198
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/compile_dominator_info = 298789
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/compute_natural_loops = 187374
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/insert_safepoints = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/ssa_compute = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/ssa_cprop = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/ssa_deadce = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/perform_abc_removal = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/ssa_remove = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1932] JIT/local_cprop2 = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/handle_global_vregs2 = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/local_deadce2 = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/optimize_branches2 = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/decompose_vtype_opts = 529807
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/decompose_array_access_opts = 102537
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/liveness_handle_exception_clauses2 = 107415
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/analyze_liveness = 900572
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/linear_scan = 207835
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/arch_allocate_vars = 170605
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/spill_global_var = 985416
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/local_cprop3 = 359809
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/local_deadce3 = 312191
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/codegen = 6334787
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/create_jit_info = 2000996
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/gc_create_gc_map = 55842
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] JIT/save_seq_point_info = 655554
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] Total time spent JITting = 61649447
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] Basic blocks = 101071
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] Max basic blocks = 5755
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] Allocated vars = 55450
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] Code reallocs = 2076
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] Allocated code size = 1922204
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] Allocated seq points size = 154953
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] Inlineable methods = 2177
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1942] Inlined methods = 7408
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Regvars = 7235
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Locals stack size = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Method cache lookups = 12999
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Compiled CIL code size = 716846
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Native code size = 1922204
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Aliases found = 1773
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Aliases eliminated = 275
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Aliased loads eliminated = 153
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Aliased stores eliminated = 43
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Optimized immediate divisions = 4
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] MonoClass::class_marshal_info_count count = 24
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX template num allocated = 96
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX template bytes allocated = 1152
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX oti num allocated = 700
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX oti bytes allocated = 8400
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX oti num markers = 167
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX oti num data = 533
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX max slot number = 27
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX num allocated = 165
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX num arrays allocated = 258
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] RGCTX bytes allocated = 5776
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] MRGCTX num arrays allocated = 260
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] MRGCTX bytes allocated = 9048
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] GSHAREDVT num trampolines = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Valloc code = 2576384
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1952] Valloc hazard pointers = 196608
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc domain = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc SGen internal = 211556
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc SGen nursery = 4194304
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc SGen LOS = 1048576
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc SGen mark&sweep = 2097152
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc SGen card table = 8388608
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc SGen shadow card table = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc SGen debugging = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc SGen binary protocol = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc exceptions = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc profiler = 593920
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Valloc other = 8192
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] JIT compile waited others = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] JIT compile 1+ jobs = 1
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] JIT compile overload wait = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] JIT compile spurious wakeups or timeouts = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Minor GC collections = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Major GC collections = 3
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Minor GC time = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Major GC time = 1893005
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Major GC time concurrent = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Sampling signals sent = 2640
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Sampling signals received = 2631
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1962] Sampling signals accepted = 2631
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Shutdown signals received = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Sample events allocated = 5
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Log buffers allocated = 970
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Sync points = 85
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: AOT IDs = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Heap objects = 52739
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Heap starts = 3
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Heap ends = 3
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Heap roots = 733
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Heap root registers = 531
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Heap root unregisters = 22
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC events = 24
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC resizes = 3
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC allocations = 127914
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC moves = 810
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC handle creations = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC handle deletions = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC finalize starts = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC finalize ends = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC finalize object starts = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: GC finalize object ends = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Image loads = 78
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Image unloads = 2
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Assembly loads = 76
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Assembly unloads = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1972] Event: Class loads = 6386
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: VTable loads = 1523
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Method entries = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Method exits = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Method exception leaves = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Method JITs = 6322
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Code buffers = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Exception throws = 2
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Exception clauses = 169166
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Monitor events = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Thread starts = 9
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Thread ends = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Thread names = 8
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Domain loads = 1
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Domain unloads = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Domain names = 1
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Context loads = 1
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Context unloads = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Sample binaries = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Sample symbols = 753
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Sample hits = 2631
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Counter descriptors = 2
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Counter samples = 80
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Performance counter descriptors = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Event: Performance counter samples = 0
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Shared generic lookups = 2301
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1982] Failed shared generic lookups = 875
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1991] Generic virtual trampoline bytes = 44392
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1991] Generic virtual cases = 30
+XamarinProfiler.Core.Platforms.ProfileMlpdRun Information: 0 : [2022-04-01 16:37:12.1991] Freed IMT trampolines = 0
+XamarinProfiler.Windows.MainWindow Information: 0 : [2022-04-01 16:37:12.2011] CurrentRun.Finished for 100RecipesDevice.mlpd
+XamarinProfiler.Windows.ViewModels.ProgressReport.ReportViewModel Information: 0 : [2022-04-01 16:37:12.2041] Stopped
